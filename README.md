@@ -1,7 +1,6 @@
 # pggoose
 
-This is a custom build of https://github.com/pressly/goose for Postgres only
-With simple defaults:
+This is a custom build of https://github.com/pressly/goose for Postgres only with simple defaults:
 
 - Load .env
 - Use DATABASE_URL for DB connection
