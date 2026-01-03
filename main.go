@@ -51,7 +51,7 @@ func main() {
 		return
 	}
 
-	if *skipEnv {
+	if !*skipEnv {
 		godotenv.Load()
 	}
 
