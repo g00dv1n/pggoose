@@ -9,7 +9,7 @@
     "pggoose": "index.js"
   },
   "scripts": {
-    "publish": "./build.sh && npm publish --access public"
+    "build": "./build.sh"
   },
   "files": [
     "index.js",
