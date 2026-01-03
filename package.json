@@ -1,6 +1,6 @@
 {
   "name": "pggoose",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Postgres-only goose-based migration tool",
   "license": "MIT",
   "author": "g00dv1n",
