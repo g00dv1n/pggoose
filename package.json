@@ -1,0 +1,18 @@
+{
+  "name": "pggoose",
+  "version": "0.0.1",
+  "description": "Postgres-only goose-based migration tool",
+  "license": "MIT",
+  "author": "g00dv1n",
+  "type": "module",
+  "bin": {
+    "pggoose": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "dist"
+  ],
+  "devDependencies": {
+    "@types/node": "^25.0.3"
+  }
+}
