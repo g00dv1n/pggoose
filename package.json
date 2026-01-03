@@ -6,7 +6,7 @@
   "author": "g00dv1n",
   "type": "module",
   "bin": {
-    "pggoose": "./index.js"
+    "pggoose": "index.js"
   },
   "files": [
     "index.js",
