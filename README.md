@@ -1,3 +1,5 @@
+# pggoose
+
 This is a custom build of https://github.com/pressly/goose for Postgres only
 With simple defaults:
 
@@ -6,7 +8,7 @@ With simple defaults:
 - Use ./migrations dir
 
 ```
-Usage: goose [OPTIONS] COMMAND
+Usage: pggoose [OPTIONS] COMMAND
 
   -dir string
         directory with migration files (default "./migrations")
