@@ -1,6 +1,6 @@
 {
   "name": "pggoose",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Postgres-only goose-based migration tool",
   "license": "MIT",
   "author": "g00dv1n",
@@ -8,9 +8,19 @@
   "bin": {
     "pggoose": "index.js"
   },
+  "scripts": {
+    "publish": "./build && npm publish --access public"
+  },
   "files": [
     "index.js",
     "dist"
+  ],
+   "keywords": [
+    "database",
+    "migration",
+    "sql migration",
+    "postgres",
+    "goose"
   ],
   "devDependencies": {
     "@types/node": "^25.0.3"
