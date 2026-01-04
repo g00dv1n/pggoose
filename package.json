@@ -1,9 +1,11 @@
 {
   "name": "pggoose",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Postgres-only goose-based migration tool",
   "license": "MIT",
   "author": "g00dv1n",
+  "repository": "https://github.com/g00dv1n/pggoose",
+  "homepage": "https://github.com/g00dv1n/pggoose#readme",
   "type": "module",
   "bin": {
     "pggoose": "index.js"
